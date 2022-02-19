@@ -1,0 +1,6 @@
+task,priority
+cook,1
+laundry,3
+pay bills,2
+study python,1
+groceries,1
